@@ -1,0 +1,15 @@
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\bin\Debug\net9.0\staircase.exe
+C:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\bin\Debug\net9.0\staircase.deps.json
+C:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\bin\Debug\net9.0\staircase.runtimeconfig.json
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\bin\Debug\net9.0\staircase.dll
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\bin\Debug\net9.0\staircase.pdb
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.AssemblyInfoInputs.cache
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.AssemblyInfo.cs
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.csproj.CoreCompileInputs.cache
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.sourcelink.json
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.dll
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\refint\staircase.dll
+c:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.pdb
+C:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\staircase.genruntimeconfig.cache
+C:\Users\Spaghet\Desktop\PROGVS\GIIT\Si_Ostriy\staircase\obj\Debug\net9.0\ref\staircase.dll
